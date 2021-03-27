@@ -1,0 +1,25 @@
+{
+  "name": "CZ",
+  "logoURI": "https://z3.ax1x.com/2021/03/27/cSnIL6.jpg",
+  "keywords": [
+      "defi",
+      "CZ",
+      "yield
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 1,
+      "address": "0xDCa8738CF677CD25f0aeE853982E4dbc70EF8ACd",
+      "name": "CZ",
+      "symbol": "CZ",
+      "decimals": 18,
+      "logoURI": "https://z3.ax1x.com/2021/03/27/cSnIL6.jpg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
